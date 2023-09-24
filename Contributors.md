@@ -2,6 +2,7 @@
    [Bista]
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
 - [bucheraa](https://github.com/bucheraa)
+- [Vikash](https://github.com/singh46)
 - [alamin655](https://github.com/alamin655)
 - [Hamzaa Shah](https://github.com/Hamjaster)
 - [Shoaib Wani](https://github.com/Pyloris)
